@@ -1,8 +1,7 @@
 <div align="center">
 
-![Miles Morales GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWd4NHNzcGtneDAxMWE1ZjJpcm9hM21vdndkaTd2MndlMHI2c3JvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f6F2CnhvhE9lkUQdhY/giphy.gif)
-
 #  Carlos Alexandre  
+![Miles Morales GIF](spiderman.gif)
 ### `> Computer Science Student | Network, Programming & Systems`
 
  "*This is the lobby... 
@@ -46,6 +45,7 @@ Estagiário no **POP-CE / RNP**, atuando com monitoramento e infraestrutura de r
 </div>
 
 ---
+![Miles Morales GIF](spiderman-bye.gif)
 
 <p align="center">
 <i>“Broadcast the boom-boom-boom and make'em all dance to it.”</i>
